@@ -18,6 +18,7 @@
       "SzamlaAgent\\": "src/"
     }
   },
+  "minimum-stability": "stable",
   "config": {
     "sort-packages": true
   }
